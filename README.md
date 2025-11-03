@@ -2,7 +2,7 @@
 
 
 ## 🧑‍💻 About Me
-- 🎓 Aspiring Software Developer
+- 🎓 Software Developer
 - 📫 How to reach me: rafaeltuan404@gmail.com
 - My linkedin: https://www.linkedin.com/in/rafael-tuan-5a682236b
 
