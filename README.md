@@ -1,7 +1,7 @@
 - Hi, I’m @raaaf-404
 
 
-## 🧑‍💻 About Me
+## About Me
 - 🎓 Software Developer
 - 📫 How to reach me: rafaeltuan404@gmail.com
 - My linkedin: https://www.linkedin.com/in/rafael-tuan-5a682236b
