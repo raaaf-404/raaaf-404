@@ -13,7 +13,7 @@
 
 <br/>
 
-## ⚡ About Me
+## About Me
 - 🔭 I’m currently working as a **Software Developer**
 - 📫 How to reach me: [rafaeltuan404@gmail.com](mailto:rafaeltuan404@gmail.com)
 - 👔 My LinkedIn: [Rafael Tuan](https://www.linkedin.com/in/rafael-tuan-5a682236b)
